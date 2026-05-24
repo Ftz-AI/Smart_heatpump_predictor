@@ -59,5 +59,8 @@ streamlit run app.py
 I am an aspiring AI & Data Science Engineer focused on developing software-driven solutions for real-world sustainability and engineering challenges.
 
 Developer: Fatema Tuz Zohora
-Linkedin: https://www.linkedin.com/in/f-tuhora-4425353a9?utm_source=share_via&utm_content=profile&utm_medium=member_android
-Email:fatematuzzohora133@gmail.com
+Linkedin: 
+https://www.linkedin.com/in/f-tuhora-4425353a9?utm_source=share_via&utm_content=profile&utm_medium=member_android
+
+Email:
+fatematuzzohora133@gmail.com
