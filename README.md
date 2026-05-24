@@ -2,7 +2,7 @@
 
 > An interactive Machine Learning dashboard that optimizes dual-cascade heat pump efficiency under extreme sub-zero conditions using the **NASA POWER satellite dataset**.
 
-[![Streamlit App](https://static.streamlit.io/badge_gradient.svg)](smartheatpumppredictor-beu25mxt4fk4oqtv7uvujr)
+[![Streamlit App](https://static.streamlit.io/badge_gradient.svg)](https://smartheatpumppredictor-beu25mxt4fk4oqtv7uvujr.streamlit.app/)
 [![Python Version](https://img.shields.io/badge/python-3.9%2B-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -16,7 +16,7 @@ This project is inspired by the pioneering work of **Dr. Muhammad Imran** (Reade
 ## 🚀 Live Interactive Demo
 Experience the trained Machine Learning simulation directly in your browser:
 
-👉 **[Click Here to Open the Live Dashboard](smartheatpumppredictor-beu25mxt4fk4oqtv7uvujr)**
+👉 **[Click Here to Open the Live Dashboard](https://smartheatpumppredictor-beu25mxt4fk4oqtv7uvujr.streamlit.app/)**
 
 ### 🖥️ Core ML Features Evaluated
 * 🔹 **Outside Ambient Temperature** (Simulated down to -25°C)
