@@ -14,7 +14,7 @@ st.set_page_config(
     layout="wide"
 )
 
-st.title("🌡️ Machine Learning Smart Dual Heat Pump Predictor")
+st.title("🌡️ Smart Dual Heat Pump Predictor")
 st.markdown("""
 
 This interactive web app utilizes a trained **Random Forest Regressor ML Model** to predict heat pump efficiency (COP) based on dynamic real-time climate inputs.
