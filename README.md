@@ -1,4 +1,4 @@
-# 🌡️ Smart Climate-Resilient Heat Pump ML Predictor
+#  Smart Climate-Resilient Heat Pump ML Predictor
 
 > An interactive Machine Learning dashboard that optimizes dual-cascade heat pump efficiency under extreme sub-zero conditions using the **NASA POWER satellite dataset**.
 
@@ -8,17 +8,17 @@
 
 ---
 
-## 💡 Research Inspiration
+##  Research Inspiration
 This project is inspired by the pioneering work of **Dr. Muhammad Imran** (Reader in Energy Systems at **Aston University, UK**) on his flagship **"Dual Heat Pumps Project for Ukraine."** This software prototype translates his conceptual framework of utilizing dynamic climate features (Solar, Wind, and Ambient Temperature) to protect vulnerable district heating grids into a live predictive application.
 
 ---
 
-## 🚀 Live Interactive Demo
+##  Live Interactive Demo
 Experience the trained Machine Learning simulation directly in your browser:
 
 👉 **[Click Here to Open the Live Dashboard](https://smartheatpumppredictor-beu25mxt4fk4oqtv7uvujr.streamlit.app/)**
 
-### 🖥️ Core ML Features Evaluated
+### Core ML Features Evaluated
 * 🔹 **Outside Ambient Temperature** (Simulated down to -25°C)
 * 🔹 **All-Sky Surface Solar Radiation** (W/m²)
 * 🔹 **Wind Speed Multipliers** (m/s)
@@ -60,7 +60,7 @@ I am an aspiring AI & Data Science Engineer focused on developing software-drive
 
 Developer: Fatema Tuz Zohora
 
-Linkedin: https://www.linkedin.com/in/f-tuhora-4425353a9?utm_source=share_via&utm_content=profile&utm_medium=member_android
+Linkedin: https://www.linkedin.com/in/f-tuhora
 
 Email:
 fatematuzzohora133@gmail.com
